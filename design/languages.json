@@ -1,0 +1,37 @@
+{
+	"languages": [
+		{
+			"name": "c"
+		},
+		{
+			"name": "c++"
+		},
+		{
+			"name": "haskell"
+		},
+		{
+			"name": "rust"
+		},
+		{
+			"name": "fsharp"
+		},
+		{
+			"name": "csharp"
+		},
+		{
+			"name": "java"
+		},
+		{
+			"name": "go"
+		},
+		{
+			"name": "zig"
+		},
+		{
+			"name": "python"
+		},
+		{
+			"name": "js"
+		}
+	]
+}

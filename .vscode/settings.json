@@ -1,0 +1,6 @@
+{
+    "[zig]": {
+        "editor.formatOnSave": false,
+    },
+    "zig.formattingProvider": "extension"
+}
